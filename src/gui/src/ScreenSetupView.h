@@ -22,6 +22,7 @@
 
 #include <QTableView>
 #include <QFlags>
+#include <QHeaderView>
 
 #include "Screen.h"
 

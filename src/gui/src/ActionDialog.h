@@ -21,6 +21,7 @@
 #define ACTIONDIALOG_H
 
 #include <QDialog>
+#include <QButtonGroup>
 
 #include "ui_ActionDialogBase.h"
 
